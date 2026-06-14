@@ -11,6 +11,7 @@ Led or co-led by me:
 - [chsudle](https://github.com/orgs/chsu-guide/repositories?type=source) (Rust + Axum + SQLx, Dart + Flutter) - Cross-platform mobile GUI for CHSU schedule, complete with a complete mirror to be safe from outages!
 - [osu-native-rs](https://github.com/Chiffario/osu-native-rs) (Rust) - Safe FFI bindings for [osu-native](https://github.com/minisbett/osu-native)!
 - [irai](https://github.com/orgs/osu-irai/repositories) (C# + ASP.NET + EF Core, TypeScript + Svelte + SvelteKit, Go, Rust, RabbitMQ) - Your favourite osu! beatmap request tool
+- [arewelazeryet](https://github.com/arewelazeryet/repositories) (Rust + Axum, TypeScript + Svelte) - osu! lazer data tracking
 - [hulk](https://github.com/Chiffario/hulk) (Rust) - Simple Linux gamma daemon
 - [akyuu](https://github.com/Chiffario/akyuu) (Rust, Twilight) - Github issue helper 
 - [MovieTracker](https://gitlab.com/codemasons/MovieTracker) (C#, ASP.NET, EF Core, Avalonia) - Simple movie tracker application for self-hosting
